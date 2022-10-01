@@ -26,7 +26,7 @@ A successful hyperparameter tuning job:
 
 <img src="img/hpo_1.png" alt="hyperparameter_tunning_job.png" width="400"/>
 
-<img src="img/hpo_1.png.png" alt="hyperparameter_tunning_job_status.png" width="400"/>
+<img src="img/hpo_2.png" alt="hyperparameter_tunning_job_status.png" width="400"/>
 
 The best hyperparameters among the training jobs are: batch_size=256, epochs=3, lr=0.00105260174375438.
 
