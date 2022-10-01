@@ -28,7 +28,7 @@ A successful hyperparameter tuning job:
 
 <img src="img/hpo_2.png" alt="hyperparameter_tunning_job_status.png" width="400"/>
 
-Sample hyperparameter tuning results:
+Sample Cloudwatch logs showing hyperparameter tuning results:
 
 <img src="img/hpo_result_1.png" alt="hpo_result_1.png" width="400"/> <img src="img/hpo_result_2.png" alt="hpo_result_2.png" width="400"/>
 
