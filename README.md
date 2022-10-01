@@ -49,6 +49,7 @@ Testing Model on Whole Testing Dataset
 Test set: Average loss: 0.7401, Accuracy: 689/837 (82%)
 ```
 There is no obvious anomalous behavior in the debugging output. If there were LossNotDecreasing issue, I would implement an early stopping logic to stop training when a predefined loss threshold was achieved.
+
 However, there was LowGPUUtilization which indicated that a smaller instance type could be chosen instead. The profiler report is provided in the project folder.
 
 ## Model Deployment
